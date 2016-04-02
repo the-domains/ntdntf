@@ -1,7 +1,7 @@
 name: ntdntf
 favicon: null
-layout_spectrum: 0.580255082808435
-typography_spectrum: 0.9176111954730004
+layout_spectrum: 0
+typography_spectrum: 0.33994
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#127bb9'
     - '#fec530'
     - '#ad861e'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0
   saturation: 1
   rhythmicContrast: 0.5
